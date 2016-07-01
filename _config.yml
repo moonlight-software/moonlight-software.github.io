@@ -1,0 +1,44 @@
+title: moonlight software
+description: My Personal Blog
+author: Moonlight Software
+logo: http://www.toxel.com/wp-content/uploads/2014/12/moonlamp02.jpg
+github: https://github.com/moonlight-software
+about: Freelance developer
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+urls:
+    - text: Home
+      url: /
+      icon: fa-home
+      layout: post
+    - text: About
+      url: /about/
+      icon: fa-comments
+    - text: developer
+      url: /developer/
+      icon: fa-users
+    - text: Projects
+      url: /projects/
+      icon: fa-desktop
+    - text: Github
+      url: https://github.com/moonlight-software
+      icon: fa-github
+    - text: XML Feed
+      url: /feed.xml
+      icon: fa-feed
+
+social:
+    - icon: fa-facebook
+      link: '#'
+    - icon: fa-skype
+      link: '#'
+    - icon: fa-twitter
+      link: '#'
+    - icon: fa-linkedin
+      link: '#'
+    - icon: fa-stack-exchange
+      link: '#'
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
