@@ -7,24 +7,11 @@
 		"tags": ["Angular JS","API"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "/static/projects/placeholder.jpg",
-		"url": "#",
+		"name": "worldMed-Backend",
+		"image": "http://media2.bazaarvoice.com/images/backend-icon-215.png",
+		"url": "https://github.com/moonlight-software/worldMed-Backend",
 		"date": "May 2014",
 		"tags": ["Android","PHP"]
-	},
-	{
-		"name": "Cool project 3",
-		"image": "/static/projects/placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "/static/projects/placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
 	}
 
 ]
