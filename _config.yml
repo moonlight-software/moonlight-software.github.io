@@ -31,14 +31,28 @@ social:
     - icon: fa-facebook
       link: 'https://www.facebook.com/groups/584065201763231/585678301601921/?notif_t=group_activity&notif_id=1467191651671589'
     - icon: fa-skype
-      link: '#'
+      link: 'https://www.facebook.com/sharer/sharer.php?sdk=joey&u=#%2F&display=popup&ref=plugin&src=share_button'
     - icon: fa-twitter
       link: '#'
-    - icon: fa-linkedin
-      link: '#'
-    - icon: fa-stack-exchange
-      link: '#'
+#    - icon: fa-linkedin
+#      link: '#'
+#    - icon: fa-stack-exchange
+#      link: "https://www.facebook.com/sharer.php?p[url]='http://moonlight-software.github.io/'"
+
 
 share:
-  twitter_username: \#
-  fb_appid: 000000000000
+  - icon: fa-stack-exchange
+    link: "https://www.facebook.com/sharer.php?p[url]='http://moonlight-software.github.io/'"
+
+#enableTags: true
+#tagarray: []
+
+#url: "http://aboutashu.com/hcz-jekyll-blog"
+#baseurl: "/hcz-jekyll-blog"
+#paginate: 20
+#per_page: 20
+#paginate_path: "/page:num/"
+#markdown: kramdown
+#gems:
+#  - jekyll-paginate
+#  - jekyll-gist
