@@ -40,9 +40,10 @@ social:
 #      link: "https://www.facebook.com/sharer.php?p[url]='http://moonlight-software.github.io/'"
 
 
-share:
-  - icon: fa-stack-exchange
-    link: "https://www.facebook.com/sharer.php?p[url]='http://moonlight-software.github.io/'"
+#share:
+#  twitter_username: \#
+#  fb_appid: 000000000000
+
 
 #enableTags: true
 #tagarray: []
